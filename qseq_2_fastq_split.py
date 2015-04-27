@@ -1,0 +1,1 @@
+# the goal of this script is to convert qseq file into fastq file in a paralell way.
